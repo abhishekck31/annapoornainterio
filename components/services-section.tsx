@@ -9,34 +9,34 @@ import Link from "next/link"
 
 const services = [
   {
-    title: "Home Interior in Bangalore",
+    title: "Home Interior",
     icon: <Home className="h-10 w-10 text-gold-500" />,
     description:
-      "Transform your Bangalore living spaces with our expert home interior design services tailored to local preferences.",
+      "Transform your living spaces with our expert home interior design services tailored to local preferences.",
     image: "/placeholder.svg?height=400&width=600",
     link: "/services#home-interior",
   },
   {
-    title: "Office Interior in Yelahanka",
+    title: "Office Interior",
     icon: <Briefcase className="h-10 w-10 text-gold-500" />,
     description:
-      "Create productive and inspiring workspaces in Yelahanka with our office interior solutions designed for Bangalore businesses.",
+      "Create productive and inspiring workspaces with our office interior solutions designed for Bangalore businesses.",
     image: "/placeholder.svg?height=400&width=600",
     link: "/services#office-interior",
   },
   {
-    title: "Construction in Bangalore",
+    title: "Construction",
     icon: <Building className="h-10 w-10 text-gold-500" />,
     description:
-      "Build your dream property in Bangalore with our professional construction services that understand local regulations.",
+      "Build your dream property with our professional construction services that understand local regulations.",
     image: "/placeholder.svg?height=400&width=600",
     link: "/services#construction",
   },
   {
-    title: "Renovation in Yelahanka",
+    title: "Renovation",
     icon: <Paintbrush className="h-10 w-10 text-gold-500" />,
     description:
-      "Revitalize your existing spaces in Yelahanka with our comprehensive renovation services tailored to Bangalore's architecture.",
+      "Revitalize your existing spaces with our comprehensive renovation services tailored to Bangalore's architecture.",
     image: "/placeholder.svg?height=400&width=600",
     link: "/services#renovation",
   },
